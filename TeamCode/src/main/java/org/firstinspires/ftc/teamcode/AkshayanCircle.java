@@ -38,7 +38,7 @@ public class AkshayanCircle extends LinearOpMode {
         leftDrive.setPower(0.75);
         rightDrive.setPower(0.45);
 
-        sleep(8000);            // drive 5 seconds to make a circle.
+        sleep(7500);            // drive 5 seconds to make a circle.
 
         // turn the motors off.
 
