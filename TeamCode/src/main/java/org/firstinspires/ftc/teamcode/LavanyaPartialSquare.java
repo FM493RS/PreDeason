@@ -11,7 +11,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 // optional group places the OpMode into the Exercises group.
 // uncomment the @Disable annotation to remove the OpMode from the OpMode list.
 
-@Autonomous(name = "Partial Square", group = "Exercises")
+@Autonomous(name = "Partial Square", group = "Square")
 //@Disabled
 public class LavanyaPartialSquare extends LinearOpMode {
     DcMotor leftMotor;

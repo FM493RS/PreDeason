@@ -39,7 +39,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 
 
 
-@Autonomous(name="AriyaSquare", group="Linear Opmode")
+@Autonomous(name="AriyaSquare", group="Square")
 //@Disabled
 public class AriyaSquare extends LinearOpMode {
 
