@@ -8,7 +8,7 @@ import com.qualcomm.robotcore.hardware.DcMotorController;
 
 @TeleOp
 @Disabled
-
+//sample opmode
 public class SampleOpMode extends OpMode {
     private DcMotorController dcMC;
     private DcMotor testMotor;
