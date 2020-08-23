@@ -36,7 +36,7 @@ public class AkshayanCircle extends LinearOpMode {
         // set power levels 75% left and 10% right to drive in an arc to the right.
 
         leftDrive.setPower(0.75);
-        rightDrive.setPower(0.45);
+        rightDrive.setPower(0.455);
 
         sleep(7500);            // drive 5 seconds to make a circle.
 
